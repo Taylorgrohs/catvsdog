@@ -4,7 +4,16 @@
   background-color: #ecf0f1;
 }
 body {
+  background-color: #2980b9;
+
+}
+
+.cat-background {
   background-color: #e67e22;
+}
+
+.dog-background {
+  background-color: #c0392b;
 }
 ul {
   background-color: rgba(236, 240, 241, 0.5);
